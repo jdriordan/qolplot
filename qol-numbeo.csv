@@ -1,0 +1,248 @@
+City,Cost of Living Index,Quality of Life Index
+"Zurich",137.27,199.05
+"Geneva",129.43,184.41
+"New York",100,137.87
+"Oslo",99.73,163.07
+"Copenhagen",95.22,186.74
+"Reykjavik",94.98,182.32
+"San Francisco",93.28,161.7
+"Paris",92.45,122.49
+"Tel Aviv-Yafo",92.28,145.71
+"Tokyo",91.82,156.52
+"Anchorage",90.94,168.98
+"Honolulu",90.82,153.66
+"Oakland",89.16,162.39
+"Luxembourg",88.86,183.07
+"Seattle",88.46,183.41
+"Boston",88.43,173.54
+"Amsterdam",87.47,168.25
+"Dublin",84.84,137.04
+"Washington",84.82,164.34
+"Sydney",84.56,177.93
+"Stockholm",84.22,156.44
+"Utrecht",83.87,173.37
+"Milan",83.8,119.2
+"Minneapolis",83.69,170.95
+"Singapore",82.86,141.48
+"London",82.75,131.04
+"Cork",82.4,169.17
+"Haifa",81.94,149.07
+"Chicago",81.75,146.15
+"Miami",81.74,152
+"Seoul",81.19,130.93
+"Portland",80.59,178.53
+"Eindhoven",80.55,190.95
+"Los Angeles",80.31,136.73
+"Lyon",79.45,154.99
+"Pittsburgh",79.28,169.96
+"Philadelphia",79.18,143.81
+"Helsinki",79.01,183.5
+"Sacramento",79.01,174.78
+"Cleveland",78.88,162.33
+"Tampa",78.86,179.05
+"Hong Kong",78.86,103.32
+"Munich",78.76,177.6
+"Brisbane",78.58,191.33
+"Graz",78.57,169.75
+"Milwaukee",78.42,153.35
+"Perth",78.37,185.04
+"San Diego",78.26,188.79
+"Antwerp",77.92,152.09
+"Canberra",77.85,208.91
+"Auckland",77.47,165.36
+"Brussels",77.26,143.74
+"Gothenburg",77.24,170.13
+"Melbourne",77.02,176.5
+"Atlanta",76.99,167.13
+"Rome",76.77,111.16
+"Rotterdam",76.38,170.86
+"San Jose",76.19,182.47
+"Frankfurt",76.16,173.35
+"Charlotte",75.83,191.28
+"Cambridge",75.27,163.55
+"Baltimore",75.18,155.71
+"Denver",75.05,169.55
+"Bologna",74.63,143.27
+"The Hague (Den Haag)",74.39,192.21
+"Spokane",73.55,175.71
+"Bristol",73.52,160.94
+"Vancouver",73.44,173.8
+"Toronto",73.34,149.14
+"Hamburg",73.32,165.25
+"Columbus",73.05,197.13
+"San Juan",72.93,125.17
+"Halifax",72.66,162.36
+"Edinburgh",72.58,178.16
+"Adelaide",72.57,208.95
+"Victoria",72.05,184.84
+"Nashville",72,171.46
+"Stuttgart",71.89,169.98
+"Cologne",71.78,156.29
+"Wellington",71.66,200.99
+"Turin",71.61,128.46
+"Buffalo",71.54,185.84
+"Vienna",71.4,184
+"Kansas City",71.24,180.72
+"Orlando",71.02,169.61
+"Dusseldorf",70.7,176.89
+"Edmonton",70.68,161.56
+"Beirut",70.56,92.9
+"Richmond",70.47,191.02
+"Manchester",70.33,149.23
+"Raleigh",70.21,204.75
+"Calgary",70.2,176.92
+"Jacksonville",70.16,175.97
+"Birmingham",70.14,144.46
+"Berlin",69.9,166.4
+"Mississauga",69.67,165.44
+"Tucson",68.87,171.87
+"Las Vegas",68.78,153.48
+"Detroit",68.7,122.73
+"Reno",68.68,181.29
+"Dubai",68.31,155.68
+"Houston",68.26,161.9
+"Nicosia",68.14,139.74
+"Ottawa",67.98,180.17
+"Kelowna",67.55,169.04
+"Doha",67.31,155.96
+"Regina",67.25,142.32
+"Phoenix",67.16,154.04
+"Limassol",67.13,149.7
+"Madison",67.05,198.82
+"Glasgow",66.7,173.51
+"Salt Lake City",66.28,165.78
+"San Antonio",66.17,174.22
+"Indianapolis",65.71,169.59
+"Winnipeg",65.57,142.26
+"Hamilton",65.44,149.57
+"Dallas",65.33,186
+"Montreal",65.15,160.23
+"Barcelona",64.69,137.09
+"Taipei",64.53,143.31
+"Cincinnati",64.25,177.91
+"Austin",64.1,191.26
+"Madrid",64.03,151.41
+"Belfast",63.7,178.24
+"Albuquerque",63.66,171.06
+"Leeds",63.2,169.87
+"Quebec City",62.84,176.23
+"Abu Dhabi",61.52,169.19
+"Thessaloniki",61.22,122.27
+"Athens",60.94,119.99
+"Ljubljana",59.71,166.59
+"Manama",59.58,138.7
+"Panama City",59.15,109.48
+"San Jose",57.6,109.98
+"Tallinn",57.44,171.87
+"Bangkok",55.92,85.48
+"Valencia",55.82,175.08
+"Amman",55.57,113.36
+"Zagreb",54.58,157.48
+"Sharjah",53.63,143.79
+"Riga",53.52,143.7
+"Bratislava",53.47,148.22
+"Lisbon",53.46,152.73
+"Porto",53,155.66
+"Muscat",52.32,174.42
+"Kuwait City",51.65,109.13
+"Jeddah (Jiddah)",51.59,145.8
+"Prague",51.43,157.68
+"Riyadh",50.48,146.44
+"Shanghai",49.58,89.62
+"Brno",49.01,157.35
+"Vilnius",48.78,165.78
+"Montevideo",48.41,122.55
+"Santiago",47.79,105.73
+"Guatemala City",47.25,99.67
+"Kaunas",46.88,161.41
+"Warsaw",46.19,118.88
+"Budapest",46,121.84
+"Shenzhen",45.89,94.88
+"Chiang Mai",45.71,126.63
+"Beijing",44.58,76.18
+"Sofia",44.35,121.1
+"Gdansk",43.93,112.64
+"Quito",43.82,113.49
+"Poznan",43.43,110.65
+"Krakow (Cracow)",43.43,110.15
+"Jakarta",43.37,69.53
+"Bucharest",42.76,117.38
+"Wroclaw",42.74,113.42
+"Manila",42.42,48.68
+"Belgrade",41.81,108.05
+"Kuala Lumpur",41.54,107.37
+"Lodz",41.09,106.94
+"Tirana",41.01,91.3
+"Moscow",40.89,107.8
+"Lima",40.53,81.58
+"Varna",40.27,136.21
+"Cluj-Napoca",40.06,150.56
+"Nairobi",39.41,73.99
+"Sarajevo",39.29,124.08
+"Johannesburg",39.18,125.64
+"Ho Chi Minh City",39.16,69.81
+"Tehran",38.81,47.8
+"Novi Sad",38.69,134.68
+"Hanoi",38.65,93.36
+"Iasi",38.5,128.26
+"Katowice",38.44,103.21
+"Pretoria",38.35,134.47
+"Casablanca",38,87.29
+"Timisoara",37.97,155.31
+"Skopje",37.8,102.93
+"Cape Town",37.25,140.41
+"Colombo",35.99,79.69
+"Dhaka",35.98,57.05
+"Lagos",35.87,53.23
+"Saint Petersburg",35.82,106.66
+"Sao Paulo",35.66,83.46
+"Mexico City",35.07,87.37
+"Campinas",34.89,130.78
+"Minsk",34.81,135.69
+"Durban",34.8,137.89
+"Monterrey",34.47,126.01
+"Yerevan",33.76,116.39
+"Istanbul",33.26,112.2
+"Nizhny Novgorod",33.24,142.41
+"Rio de Janeiro",33.22,75.03
+"Baku",32.85,104.22
+"Kiev (Kyiv)",32.75,107.57
+"Brasilia",32.63,141.08
+"Astana (Nur-Sultan)",32.52,128.21
+"Yekaterinburg",32.33,87.34
+"Cairo",31.95,80.13
+"Bursa",31.69,160.12
+"Buenos Aires",31.67,109.39
+"Porto Alegre",31.36,110.54
+"Belo Horizonte",31.28,99.58
+"Recife",31.24,77.11
+"Ankara",31.13,131.72
+"Guadalajara",31.08,119.19
+"Novosibirsk",31,86.2
+"Odessa (Odesa)",30.94,108.47
+"Izmir",30.54,142.33
+"Almaty",30.48,84.41
+"Gurgaon",30.37,109.16
+"Bogota",30.29,87.81
+"Kathmandu",30.25,83.24
+"Tbilisi",30.17,110.87
+"Kharkiv",29.97,108.27
+"Lviv",29.66,119.68
+"Dnipro",29.29,96.79
+"Curitiba",29.26,136.15
+"Mumbai",29.07,70.12
+"Medellin",28.91,117.12
+"Delhi",27.25,80.78
+"Bangalore",27.09,114.27
+"Noida",26.74,95.82
+"Pune",26.03,120.3
+"Ahmedabad",26.03,113.82
+"Hyderabad",25.9,117.99
+"Kolkata",25.62,90.5
+"Chennai",25.06,104.41
+"Mangalore",23.57,158.58
+"Coimbatore",23.2,122.33
+"Islamabad",22.56,137.71
+"Lahore",21.94,105.77
+"Karachi",21.5,85.58
+"Thiruvananthapuram",19.48,129.46
